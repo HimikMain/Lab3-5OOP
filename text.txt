@@ -1,0 +1,3 @@
+Pistol pm300 class sample.weapon.weapon.Pistol 50
+Knife kitchen class sample.weapon.weapon.Knife 1
+Rifle ak-47 class sample.weapon.weapon.Rifle 50

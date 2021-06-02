@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Pistol>
+    <weaponModel>pm300</weaponModel>
+    <weaponType>Pistol</weaponType>
+    <rangeOfTheShot>0</rangeOfTheShot>
+</Pistol>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Knife>
+    <weaponModel>kitchen</weaponModel>
+    <weaponType>Knife</weaponType>
+    <displacement>0</displacement>
+</Knife>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Rifle>
+    <weaponModel>ak-47</weaponModel>
+    <weaponType>Rifle</weaponType>
+    <rangeOfTheShot>0</rangeOfTheShot>
+</Rifle>

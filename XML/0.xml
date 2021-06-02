@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Rifle>
+    <weaponModel>ak-47</weaponModel>
+    <weaponType>Rifle</weaponType>
+    <rangeOfTheShot>0</rangeOfTheShot>
+</Rifle>
